@@ -1,0 +1,6 @@
+﻿  Registrar.cpp
+D:\Zewail\Year 2\C++\SPOT-final-final\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(47): warning C4091: 'static ': ignored on left of 'GUI::MENU_ITEM' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT-final-final\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.h(53): warning C4091: 'static ': ignored on left of 'GUI::STATE_DRAG_CRS' when no variable is declared
+D:\Zewail\Year 2\C++\SPOT-final-final\SPOT - CIE202 Project Code Framework\SPOT\ViewField.h(6,37): warning C4129: 'B': unrecognized character escape sequence
+D:\Zewail\Year 2\C++\SPOT-final-final\SPOT - CIE202 Project Code Framework\SPOT\Registrar.cpp(289,21): warning C4101: 'msg': unreferenced local variable
+  SPOT.vcxproj -> D:\Zewail\Year 2\C++\SPOT-final-final\SPOT - CIE202 Project Code Framework\x64\Debug\SPOT.exe
